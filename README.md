@@ -37,7 +37,7 @@ The intake of a ticket involves the process of capturing and recording relevant 
 <img src="https://i.imgur.com/vg2hzF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Delegate ticket to appropriate department or agent. They will also be responsible to be a keep an open communication with the end user requesting IT support.
+Delegate ticket to appropriate department or agent. They will also be responsible in keeping an open communication with the end user requesting IT support.
 </p>
 <br />
 
@@ -45,5 +45,5 @@ Delegate ticket to appropriate department or agent. They will also be responsibl
 <img src="https://i.imgur.com/9kFt6OJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Successfully addressed and closed the ticket, providing a satisfactory resolution to the customer's issue.
+The ticket has now been addressed successfully and closed, providing a satisfactory resolution to the customer's issue.
 <br />
